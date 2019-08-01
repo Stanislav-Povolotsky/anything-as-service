@@ -11,7 +11,7 @@
 ::    create_service_wrap.cmd MyServiceExe %windir%\system32\calc.exe
 ::    create_service_wrap.cmd MyServicePS /start auto /powershell C:\1.ps1
 ::.LINK 
-::    https://github.com/Stanislav-Povolotsky/anything-as-service/srvany(old)/
+::    https://github.com/Stanislav-Povolotsky/anything-as-service/
 @echo off
 goto run
 
